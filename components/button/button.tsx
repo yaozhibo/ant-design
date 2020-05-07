@@ -1,4 +1,4 @@
-/* eslint-disable react/button-has-type */
+/* eslint-disable react/button-has-type cool */
 import * as React from 'react';
 import classNames from 'classnames';
 import omit from 'omit.js';
